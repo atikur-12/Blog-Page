@@ -1,0 +1,12 @@
+img{
+    width: 592px;
+
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+div .blogCard{
+    display: inline;
+    padding: 0px;
+}
